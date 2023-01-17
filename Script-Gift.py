@@ -5,9 +5,3 @@ print('\033[0;93m\n JOIN MY GIFT GROUP\033[1;37m')
 time.sleep(3)
 import ok
 ok.main()
-
-
-
-
-
-
